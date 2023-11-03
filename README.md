@@ -1,2 +1,2 @@
 # hexo-comment
-用来存放博客评论
+To store the comment of my github page.
